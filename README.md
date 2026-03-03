@@ -9,6 +9,7 @@
 ​⚠️ Aviso
 ---
 ​NADA aqui foi criado para má fé. Desaprovo o uso desses scripts para prejudicar a experiência de outros jogadores. Use apenas para fins educacionais.
+NÃO me responsabilizo por banimento do jogo e/ou plataforma Roblox
 
 ​🚀 Como Usar
 ---
