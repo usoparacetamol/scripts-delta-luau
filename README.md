@@ -15,4 +15,4 @@ NÃO me responsabilizo por banimento do jogo e/ou plataforma Roblox
 ---
 ​Para rodar qualquer script deste repositório no seu ambiente de teste:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SEU_USUARIO/scripts-delta-lua/main/NOME_DO_ARQUIVO.lua"))()```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SEU_USUARIO/scripts-delta-lua/main/NOME_DO_ARQUIVO.lua"))()
