@@ -35,3 +35,4 @@ run.RenderStepped:Connect(function()
         camera.CFrame = camera.CFrame * CFrame.new(0, 0, -speed) 
     end
 end)
+-- codigo pra rodar esse script: loadstring(game:HttpGet("https://raw.githubusercontent.com/usoparacetamol/scripts-delta-luau/refs/heads/main/freecam.luau"))()
