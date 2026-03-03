@@ -1,4 +1,4 @@
-​# scripts-delta-lua 🛠️
+​# scripts-delta-luau 🛠️
 ---
 ​Scripts em Luau focados em análise técnica e estudo de mecânicas (Viewmodel, Procedural Animation e Level Design).
 
