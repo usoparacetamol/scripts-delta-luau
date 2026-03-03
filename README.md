@@ -4,7 +4,7 @@
 
 ​📖 Objetivo
 ---
-​Este repositório serve como um laboratório de estudos para o meu projeto de terror inspirado em Granny 2 e Chain. O foco é entender como a matemática de molas (Springs) e sistemas de câmera funcionam na prática.
+​Este repositório serve como um laboratório de estudos para meus projetos. O foco é entender como certos sistemas funcionam em jogos para inspiração e estudo pessoal
 
 ​⚠️ Aviso
 ---
